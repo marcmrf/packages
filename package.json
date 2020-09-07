@@ -1,0 +1,21 @@
+{
+  "name": "packages",
+  "private": true,
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marcmrf/dummy-package": "1.0.0",
+    "lodash": "^4.17.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:marcmrf/packages.git"
+  }
+}
