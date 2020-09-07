@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@marcmrf/dummy-package": "^1.0.6-alpha.2.876",
+    "@marcmrf/dummy-package": "^1.0.6",
     "lodash": "^4.17.20"
   },
   "repository": {
