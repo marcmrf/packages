@@ -1,0 +1,14 @@
+{
+	"lockFileMaintenance": { "enabled": true, "schedule": ["at any time"] },
+	"schedule": ["at any time"],
+	"enabled": true,
+	"labels": ["dependencies"],
+	"packageRules": [
+		{
+			"enabled": true,
+			"updateTypes": ["minor", "patch", "pin", "digest"],
+			"automerge": true,
+			"rangeStrategy": "update-lockfile"
+		}
+	]
+}
